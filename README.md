@@ -28,50 +28,49 @@
 <!-- Seção de projetos e atividades -->
 <h2>🚀 Sobre o Que Eu Faço</h2>
 <ul>
-  <li><b>Startups & Consultorias:</b> Participo de Hackathons e eventos, oferecendo consultoria para acadêmicos e empresas.</li>
+  <li><b>Treinamentos & Consultorias:</b> Participo de Hackathons e eventos, oferecendo consultoria para acadêmicos e empresas.</li>
   <li><b>Projetos em Destaque:</b> 
     <ul>
-      <li>Painel de preços com ESP8266 e matriz de LED 8x32</li>
-      <li>Robôs seguidores de linha para oficinas práticas</li>
+      <li>Painel de preços com ESP8266 e LCD 16x2 I2C</li>
+      <li>Kit de Aprendizagem: Kit Robô Seguidor de Linha e Apostila de Eletrônica Básica</li>
       <li>Monitoramento de esteira com sensores ultrassônicos e displays de 7 segmentos</li>
     </ul>
   </li>
-  <li><b>Educação & Workshops:</b> Desenvolvo oficinas para jovens e adultos, integrando kits eletrônicos, Tinkercad, e simulações práticas.</li>
+  <li><b>Educação & Workshops:</b> Desenvolvo oficinas para crianças, jovens e adultos, integrando kits eletrônicos, Tinkercad, e simulações práticas.</li>
 </ul>
 
 <!-- Destaques sobre suas atividades -->
 <h2>🌟 Meus Destaques</h2>
 <ul>
   <li><b>Oficinas:</b> Cursos com kits interativos para aprender robótica e eletrônica desde a base.</li>
-  <li><b>Promoções:</b> Descontos progressivos para grupos e pacotes personalizados para escolas.</li>
-  <li><b>Projetos Recorrentes:</b> Soluções Arduino e ESP8266 aplicadas a automação, identidade visual e monitoramento.</li>
+  <li><b>Palestras:</b> Palestras sobre Robótica para escolas ou Hub de tecnologia</li>
+  <li><b>Projetos Recorrentes:</b> Soluções com Arduino ou ESP8266 aplicadas a Automação e a Robótica</li>
 </ul>
 
 <!-- Links para redes sociais e canais -->
 <h2>🎥 Acompanhe Meu Conteúdo</h2>
 <p align="left">
-  <b>Instagram & TikTok:</b> <a href="https://instagram.com/seu_perfil" target="_blank">@oficina_maker</a><br>
-  <b>YouTube:</b> Tutoriais e demonstrações práticas em <a href="https://youtube.com/seu_canal" target="_blank">OficinaMaker no YouTube</a>.
+  <b>Instagram:</b> <a href="https://instagram.com/prof_adaeloliveira" target="_blank">@prof_adaeloliveira</a><br>
+  <b>YouTube:</b> Tutoriais e demonstrações práticas em <a href="https://youtube.com/@oficinamaker.school" target="_blank">OficinaMaker no YouTube</a>.
 </p>
 
-<!-- Habilidades técnicas com ícones (adicione ou remova conforme necessário) -->
+<!-- Habilidades técnicas com ícones -->
 <h2>🛠️ Habilidades Técnicas</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/esp8266.png" alt="ESP8266" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin" width="40" height="40"/>
 </p>
+
 
 <!-- Informações de contato -->
 <h2>📫 Vamos Conversar?</h2>
 <p>
-  Entre em contato por e-mail em <a href="mailto:contato@oficinamaker.com">contato@oficinamaker.com</a> ou siga nossas redes sociais para ficar por dentro das novidades e projetos incríveis!
+  Entre em contato por e-mail em <a href="mailto:oficinamaker.om@gmail.com">Meu Gmail</a> ou pelo WhatsApp: <a href="https://wa.me/+5519981508906" target="_blank">WhatsApp</a>. 
+  Siga nossas redes sociais para ficar por dentro das novidades e projetos incríveis!
 </p>
+
 
 <!-- Seção de estatísticas (opcional) -->
 <h2>💡 Estatísticas & Projetos Recentes</h2>
@@ -85,6 +84,7 @@
 <ul>
   <li>Robótica & Eletrônica Maker</li>
   <li>Hackathons & Desafios Tecnológicos</li>
+  <li>Bitcoin & Blockchain</li>
   <li>Esportes e Vida Saudável</li>
   <li>Criação de Conteúdo Educacional</li>
 </ul>
