@@ -2,21 +2,22 @@
 <h1 align="center">Bem-vindo(a), Maker!</h1>
 <hr />
 
-<!-- Ícones das redes sociais com links (substitua "seu_perfil" e "seu_canal" com suas URLs) -->
+<!-- Ícones das redes sociais com links (substitua com suas URLs) -->
 <p align="center">
-  <a href="https://github.com/seu_perfil" target="_blank">
+  <a href="https://github.com/ProfAdaelOliveira" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="40px" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/seu_perfil" target="_blank">
+  <a href="https://instagram.com/prof_adaeloliveira" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="40px" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/seu_canal" target="_blank">
+  <a href="https://youtube.com/@oficinamaker.school" target="_blank">
     <img src="https://i.ibb.co/kSWhXVq/youtube.png" width="40px" alt="YouTube"/>
   </a>
-  <a href="https://linkedin.com/in/seu_perfil" target="_blank">
-    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="40px" alt="LinkedIn"/>
+  <a href="https://wa.me/+5519981508906" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40px" alt="WhatsApp"/>
   </a>
 </p>
+
 
 <!-- Introdução sobre você -->
 <h2>👋 Olá, Makers!</h2>
