@@ -63,15 +63,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin" width="40" height="40"/>
 </p>
 
-<!-- Seção de Parcerias Elegante -->
-<h2 align="center">🤝 Parcerias & Colaborações</h2>
+<!-- Seção de Parcerias -->
+<h2>🤝 Parcerias & Colaborações</h2>
 <hr />
-<p align="center">
+<p>
   Tenho orgulho de colaborar com parceiros que promovem a educação tecnológica e inovadora. Junte-se a nós para impactar ainda mais o mundo maker!
 </p>
 
 <!-- Benefícios da Parceria -->
-<div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   <ul>
     <li><b>📣 Divulgação da Marca:</b> Exposição em workshops, eventos e redes sociais.</li>
     <li><b>🎓 Apoio Educacional:</b> Parcerias em cursos e materiais didáticos.</li>
@@ -80,19 +79,13 @@
 </div>
 
 <!-- Logos dos Parceiros -->
-<h3 align="center">🌐 Nossos Parceiros</h3>
+<h3>🌐 Nossos Parceiros</h3>
 <p align="center">
   <a href="https://www.superprof.com.br/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Superprof_Logo.png/120px-Superprof_Logo.png" alt="SuperProf" width="120px" style="margin: 10px;" />
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Superprof_Logo.png/120px-Superprof_Logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1wheZfO0W6JJTTarRzWZYcBglYk_Utcjsg&s)" alt="SuperProf" width="120px" style="margin: 10px;" />
   </a>
   <!-- Adicione mais parceiros com o mesmo formato se necessário -->
 </p>
-
-<!-- Chamada para novas parcerias -->
-<p align="center">
-  Interessado em se tornar parceiro? Entre em contato via <a href="https://wa.me/+5519981508906" target="_blank"><b>WhatsApp</b></a> ou por <a href="mailto:oficinamaker.om@gmail.com"><b>Gmail</b></a> para mais detalhes sobre como podemos crescer juntos!
-</p>
-
 
 <!-- Informações de contato -->
 <h2>📫 Vamos Conversar?</h2>
