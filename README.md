@@ -58,7 +58,7 @@
 <h2>🛠️ Habilidades Técnicas</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
-  <img src="[https://img.icons8.com/ios-filled/50/000000/esp8266.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.olimex.com%2FProducts%2FIoT%2FESP8266%2F&psig=AOvVaw2mqo5Nm9FACmZI_xp6HR50&ust=1730688300923000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiTmdqSv4kDFQAAAAAdAAAAABAE)" alt="ESP8266" width="40" height="40"/>
+  <img src="https://www.nodemcu.com/images/thumbnail/nodemcu-style5-150px.png_150x150.png" alt="nodemcu" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin" width="40" height="40"/>
 </p>
@@ -67,7 +67,7 @@
 <!-- Informações de contato -->
 <h2>📫 Vamos Conversar?</h2>
 <p>
-  Entre em contato por e-mail em <a href="mailto:oficinamaker.om@gmail.com">Meu Gmail</a> ou pelo WhatsApp: <a href="https://wa.me/+5519981508906" target="_blank">WhatsApp</a>. 
+  Entre em contato por <a href="mailto:oficinamaker.om@gmail.com">Gmail</a> ou pelo <a href="https://wa.me/+5519981508906" target="_blank">WhatsApp</a>. 
   Siga nossas redes sociais para ficar por dentro das novidades e projetos incríveis!
 </p>
 
