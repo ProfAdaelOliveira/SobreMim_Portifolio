@@ -65,7 +65,7 @@
 
 <!-- Seção de Parcerias -->
 <h2>🤝 Parcerias & Colaborações</h2>
-<hr />
+
 <p>
   Tenho orgulho de colaborar com parceiros que promovem a educação tecnológica e inovadora. Junte-se a nós para impactar ainda mais o mundo maker!
 </p>
@@ -80,9 +80,9 @@
 
 <!-- Logos dos Parceiros -->
 <h3>🌐 Nossos Parceiros</h3>
-<p align="center">
+<p>
   <a href="https://www.superprof.com.br/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Superprof_Logo.png/120px-Superprof_Logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1wheZfO0W6JJTTarRzWZYcBglYk_Utcjsg&s)" alt="SuperProf" width="120px" style="margin: 10px;" />
+    <img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Superprof_Logo.png/120px-Superprof_Logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1wheZfO0W6JJTTarRzWZYcBglYk_Utcjsg&s)](https://play-lh.googleusercontent.com/1Tknjl6CTRL4keB_xRUgzWVtNOLIw-GLFDvkl4kHm9y_yrWO-x_knQicb3Gs1MW4Gck=w240-h480-rw)" alt="SuperProf" width="120px" style="margin: 10px;" />
   </a>
   <!-- Adicione mais parceiros com o mesmo formato se necessário -->
 </p>
@@ -96,11 +96,13 @@
 
 
 <!-- Seção de estatísticas (opcional) -->
+<hr />
 <h2>💡 Estatísticas & Projetos Recentes</h2>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=adaeloliveira&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaeloliveira&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens Mais Usadas" />
 </p>
+<hr />
 
 <!-- Seção de hobbies e interesses -->
 <h2>👾 Hobbies & Interesses</h2>
