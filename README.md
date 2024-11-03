@@ -82,7 +82,7 @@
 <h3>🌐 Nossos Parceiros</h3>
 <p>
   <a href="https://www.superprof.com.br/" target="_blank">
-    <img src=" https://instagram.fcpq5-1.fna.fbcdn.net/v/t51.2885…YMweZMAHx61z2De5yZgPxQ&oe=672CB74A&_nc_sid=7a9f4b " alt="SuperProf" width="120px" style="margin: 10px;" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwk_R4SvBFfWIpTgLP0JrqU4bz-_OLzORsUQ&s" alt="SuperProf" width="120px" style="margin: 10px;" />
   </a>
   <!-- Adicione mais parceiros com o mesmo formato se necessário -->
 </p>
