@@ -1,81 +1,93 @@
-# SobreMim_Portifolio
-Olá, meu nome é Adael Oliveira e estarei compartilhando um pouco sobre mim e sobre meu projeto educacional OficinaMaker
-
+<!-- Título da página centralizado -->
 <h1 align="center">Bem-vindo(a), Maker!</h1>
 <hr />
 
-<!-- Links para redes sociais com ícones -->
-<a href="https://github.com/seuusuario" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px" alt="GitHub">
+<!-- Link para o GitHub com logo no canto direito -->
+<a href="https://github.com/strongreen" target="_blank">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px" alt="GitHub Logo">
 </a>
 
-<!-- Parágrafo de introdução -->
+<!-- Introdução -->
 <p align="left">
-  <b>Olá, Makers!</b> <br>
-  Sou <b>Adael Oliveira</b>, professor apaixonado por Eletrônica, Programação e Robótica, com mais de 7 anos de experiência!
+  <b>Faaallaaa Makers!</b> <br/>
+  Sou <b>Adael Oliveira</b>, professor de Eletrônica, Programação e Robótica, e criador da <b>OficinaMaker</b>.
 </p>
 
-<!-- Outro link social com ícone -->
-<a href="https://www.instagram.com/seuusuario/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px" alt="Instagram">
+<!-- Link para o Instagram com logo no canto direito -->
+<a href="https://www.instagram.com/strongreen/" target="_blank">
+  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px" alt="Instagram Logo">
 </a>
 
+<!-- Informações sobre carreira e conteúdos -->
 <p align="left">
-  Atualmente, lidero a <b>OficinaMaker</b>, uma startup focada em simplificar o aprendizado tecnológico para todas as idades.
+  Trabalho com consultoria, desenvolvimento de projetos tecnológicos e ensino prático, levando conhecimento de forma simplificada para todas as idades. Produzo conteúdos focados em <b>Arduino, ESP, Raspberry, Tinkercad e Wokwi</b>!
 </p>
 
-<a href="https://www.youtube.com/seuusuario/" target="_blank">
-  <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px" alt="YouTube">
+<!-- Link para o YouTube com logo no canto direito -->
+<a href="https://www.youtube.com/herikastrongreen/" target="_blank">
+  <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px" alt="YouTube Logo">
 </a>
 
+<!-- Informações adicionais -->
 <p align="left">
-  Sou entusiasta de tecnologias futuras, eletrônica prática e, claro, do mundo fascinante do <b>Bitcoin</b>! Vamos explorar esse universo juntos!
+  Além de organizar oficinas e consultorias, faço parte de eventos e comunidades maker, sempre focando em projetos que unem tecnologia e aprendizado prático.
 </p>
 
-<a href="https://www.linkedin.com/in/seuusuario/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px" alt="LinkedIn">
+<!-- Link para o LinkedIn com logo no canto direito -->
+<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px" alt="LinkedIn Logo">
 </a>
 
-<!-- Seção de experiências profissionais -->
+<!-- Seção de experiências -->
 <h2>🚀 Experiências Profissionais</h2>
 <ul>
-  <li><b>OficinaMaker</b> - Educação Tecnológica
-    <ul>
-      <li>Criação de oficinas de robótica e eletrônica</li>
-      <li>Consultorias para projetos acadêmicos e empresariais</li>
-      <li>Desenvolvimento de kits práticos para estudantes</li>
-    </ul>
-  </li>
-  <!-- Mais experiências podem ser adicionadas aqui -->
+  <li><b>InovaPrudente</b> - Oficinas e Palestras</li>
+  <li><b>SESC Thermas</b> - Oficinas Maker</li>
+  <li><b>Consultorias</b> - Projetos de Robótica e Tecnologia</li>
 </ul>
 
-<!-- Seção de hobbies -->
+<!-- Seção de hobbies e interesses -->
 <h2>👾 Hobbies & Interesses</h2>
 <ul>
-  <li>Bitcoin & Criptomoedas</li>
-  <li>Montar robôs e protótipos</li>
-  <li>Explorar IoT e projetos com ESP</li>
-  <li>Academia e vida saudável</li>
-  <li>Hackathons e competições tecnológicas</li>
+  <li>Explorar tecnologias emergentes</li>
+  <li>Participar de Hackathons</li>
+  <li>Trabalhar em soluções práticas usando IoT</li>
+  <li>Jogar e relaxar com amigos</li>
 </ul>
 
-<!-- Seção de tecnologias e ferramentas usadas -->
-<h2>🛠️ Tecnologias & Ferramentas</h2>
+<!-- Contato -->
+<h2>📫 Contato</h2>
+<p>
+  Quer conversar sobre projetos ou colaborações? <br/>
+  📧 <a href="mailto:contato@strongreen.com">contato@strongreen.com</a>
+</p>
+
+<!-- Estatísticas do GitHub -->
+<h2>📊 Estatísticas</h2>
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens Mais Usadas">
+</p>
+
+<!-- Seção de tecnologias -->
+<h2>🛠️ Tecnologias e Ferramentas</h2>
+<p align="left">
+  <!-- Ícones das tecnologias utilizadas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40">
-  <img src="https://i.ibb.co/BGLCwPM/esp.png" alt="ESP" width="40" height="40">
-  <img src="https://i.ibb.co/41FVgWp/raspberry-pi.png" alt="Raspberry Pi" width="40" height="40">
-  <img src="https://i.ibb.co/C7C2Zw5/tinkercad.png" alt="Tinkercad" width="40" height="40">
-  <img src="https://i.ibb.co/KxhW2pD/wokwi.png" alt="Wokwi" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin" width="40" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/esp-3220240937-512.png" alt="ESP" width="40" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/raspberry-pi-3-569594.png" alt="Raspberry" width="40" height="40">
+  <img src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/andrelauria/awesome-wokwi-icons/master/icons/wokwi.svg" alt="Wokwi" width="40" height="40">
 </p>
 
-<!-- Contador de visualizações no perfil -->
+<!-- Contador de visitas -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=seuusuario" alt="Visualizações do perfil">
+  <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen">
 </p>
 
-<!-- Rodapé com base no template -->
+<!-- Referência -->
 <p align="center">
   ⭐️ Baseado em <a href="https://github.com/CallmeMehdi">CallmeMehdi</a>
 </p>
+
+<!-- Comentários de encerramento -->
